@@ -4,7 +4,6 @@ version="2.4.0"
 name="D-World Adult"
 provider-name="Ackermann Anal">
 <requires>
-  <import addon="xbmc.python" version="3.0.0"/>
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
   <provides>video</provides>
